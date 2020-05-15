@@ -12,3 +12,6 @@ dist/
 
 # pytest
 .pytest_cache
+
+# Test
+test/
